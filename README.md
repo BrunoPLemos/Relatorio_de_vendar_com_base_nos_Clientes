@@ -3,6 +3,12 @@
 📊 RELATÓRIO DE VENDAS — ANÁLISE DE CLIENTES
 Este projeto é um dashboard interativo desenvolvido no Excel com o objetivo de analisar o desempenho de vendas por produto, cliente, estado, marca e período. Ele oferece uma visão estratégica para tomada de decisões comerciais, com foco em identificar padrões de consumo e oportunidades de crescimento.
 
+## 📊 Visualização do Dashboard
+
+
+
+![Dashboard de Análise de Resultados](Dashboard%203%20imagem.png)
+
 🧩 Funcionalidades
 Venda x Produto: Comparativo de vendas entre diferentes produtos eletrônicos.
 
